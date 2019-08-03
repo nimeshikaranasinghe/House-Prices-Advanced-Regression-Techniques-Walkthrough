@@ -24,7 +24,7 @@ Methodology
 
 Link to my submission1.csv file: https://drive.google.com/file/d/1vavOuZf1bp4FfD9AJ-uKhnN34nuTrT1J/view?usp=sharing
 
-YouTube link to walkthrough:  https://youtu.be/Qq2X-K2Ku3s
+**YouTube** link to walkthrough:  https://youtu.be/Qq2X-K2Ku3s
 
 Kaggle Updates: https://www.kaggle.com/nimeshikaranasinghe/competitions 
 

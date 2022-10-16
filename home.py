@@ -305,7 +305,7 @@ for i in range (-2, 3):
     overlay = 'R^2 is: {}\nRMSE is: {}'.format(
                     ridge_model.score(X_test, y_test),
                     mean_squared_error(y_test, preds_ridge))
-    plt.annotate(s=overlay,xy=(12.1,10.6),size='x-large')
+    plt.annotate('OverLay',xy=(12.1,10.6),size='x-large')
     plt.show()
 
 # if you examined the plots you can see these models perform almost identically to the first model.
